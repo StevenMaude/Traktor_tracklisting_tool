@@ -12,5 +12,6 @@ This will be a Python script to work around these issues.
 Haven't decided on which yet.
 
 ## Possible features
-* Create a new HTML playlist with a subset of the columns in the original
+* Create a new HTML playlist with a subset of the columns in the original.
 * Extract information to text.
+* [YouTube search](https://developers.google.com/youtube/v3/code_samples/python#search_by_keyword) for track to add link
