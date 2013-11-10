@@ -9,7 +9,7 @@ This will be a Python script to work around these issues.
 * Extract information from the .NML files.
 * Scrape it from an exported HTML playlist.
 
-Haven't decided on which yet.
+Haven't decided on which yet, but I might provide tools for both.
 
 ## Possible features
 * Create a new HTML playlist with a subset of the columns in the original.
